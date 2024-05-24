@@ -1,0 +1,1288 @@
+.flight1-1 {
+    position: absolute;
+    top: 78px;
+    left: 0px;
+    width: 1440px;
+    height: 434px;
+    overflow: hidden; /* Ensures content that overflows the bounds of this div is hidden */
+}
+
+.background-video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: translate(-50%, -50%);
+    /*z-index: -1; /* Ensures the video stays in the background */
+}
+
+.group-child {
+	position: absolute;
+	top: 512px;
+	left: 0px;
+	background-color: rgba(255, 255, 255, 0.93);
+	width: 1440px;
+	height: 2309px;
+}
+.about-us {
+	position: relative;
+}
+.about-us-wrapper {
+	position: absolute;
+	top: 2605px;
+	left: 669px;
+	border-radius: 76px;
+	background-color: #fff;
+	width: 110px;
+	height: 50px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+	box-sizing: border-box;
+	font-size: 17px;
+	font-family: 'Inknut Antiqua';
+}
+.group-item {
+	position: absolute;
+	top: 0px;
+	left: calc(50% - 720px);
+	background-color: #fff;
+	width: 1440px;
+	height: 80px;
+}
+.flightlogo-1-icon {
+	position: absolute;
+	top: 17px;
+	left: 41px;
+	width: 124px;
+	height: 46px;
+	object-fit: cover;
+}
+.book-now-wrapper {
+	position: absolute;
+	top: 26px;
+	left: 255px;
+	border-radius: 30px;
+	background-color: #fcf7f7;
+	width: 126px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+	box-sizing: border-box;
+	font-family: Inter;
+}
+.manage-wrapper {
+	position: absolute;
+	top: 26px;
+	left: 417px;
+	border-radius: 30px;
+	background-color: #fcf7f7;
+	width: 105px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+	box-sizing: border-box;
+	font-family: Inter;
+}
+.loyalty-points-wrapper {
+	position: absolute;
+	top: 26px;
+	left: 558px;
+	border-radius: 30px;
+	background-color: #fcf7f7;
+	width: 146px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+	box-sizing: border-box;
+	font-family: Inter;
+}
+.help-wrapper {
+	position: absolute;
+	top: 26px;
+	left: 740px;
+	border-radius: 30px;
+	background-color: #fcf7f7;
+	width: 93px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+	box-sizing: border-box;
+	cursor: pointer;
+	font-family: Inter;
+}
+.search-icon-1 {
+	width: 16px;
+	position: relative;
+	height: 16px;
+	object-fit: cover;
+}
+.search-icon-1-wrapper {
+	position: absolute;
+	top: 26px;
+	left: 1280px;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding: 10px;
+}
+.profile-icon-login-head-icon-v {
+	position: absolute;
+	top: 9px;
+	left: 0px;
+	border-radius: 100px;
+	width: 20px;
+	height: 20px;
+	object-fit: cover;
+}
+.log-in {
+	position: relative;
+	text-shadow: 0.5px 0 0 #000, 0 0.5px 0 #000, -0.5px 0 0 #000, 0 -0.5px 0 #000;
+}
+.log-in-wrapper {
+	position: absolute;
+	top: 0px;
+	left: 20px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+}
+.profile-icon-login-head-icon-v-parent {
+	position: absolute;
+	top: 23px;
+	left: 1331px;
+	width: 87px;
+	height: 37px;
+	cursor: pointer;
+	font-family: Inter;
+}
+.comfort {
+	position: absolute;
+	top: 375px;
+	left: 102px;
+	font-size: 18px;
+	letter-spacing: 0.24em;
+	font-family: Kalam;
+}
+.red-brush-stroke-png-1-icon {
+	position: absolute;
+	top: 277px;
+	left: 0px;
+	width: 152.3px;
+	height: 85.9px;
+	object-fit: contain;
+}
+.fly-with {
+	position: absolute;
+	top: 317px;
+	left: 23px;
+	font-size: 17px;
+	letter-spacing: 0.24em;
+	font-family: 'Julius Sans One';
+	color: #fff;
+}
+.your-own {
+	position: absolute;
+	top: 320px;
+	left: 23px;
+	font-size: 37px;
+	letter-spacing: 0.03em;
+	display: inline-block;
+	font-family: Kadwa;
+	color: #fff;
+	width: 366px;
+}
+.book-now-container {
+	position: absolute;
+	top: 394px;
+	left: 243px;
+	background-color: #052d59;
+	width: 150px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+	box-sizing: border-box;
+	font-size: 16px;
+	color: #fff;
+}
+.pngtree-airplane-icon-png-imag {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 33px;
+	height: 33px;
+	object-fit: cover;
+}
+.search-flight1 {
+	position: absolute;
+	top: 5px;
+	left: 43px;
+	letter-spacing: 0.03em; 
+}
+.pngtree-airplane-icon-png-imag-parent {
+	width: 196px;
+	position: relative;
+	height: 33px;
+}
+.group-wrapper {
+	position: absolute;
+	top: 461px;
+	left: calc(50% - 654px);
+	background-color: #fff;
+	width: 315px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+	box-sizing: border-box;
+	cursor: pointer;
+	font-size: 16px;
+}
+.group-inner {
+	position: absolute;
+	top: 514px;
+	left: calc(50% - 706px);
+	background-color: #fff;
+	width: 1411px;
+	height: 287px;
+}
+.passenger {
+	position: absolute;
+	top: 703px;
+	left: 193px;
+	font-size: 23px;
+	letter-spacing: 0.03em;
+}
+.premium-economy {
+	position: absolute;
+	top: 706px;
+	left: calc(50% - 109px);
+	font-size: 23px;
+	letter-spacing: 0.03em;
+}
+.b {
+	position: absolute;
+	top: 594px;
+	left: 1121px;
+	font-size: 13px;
+	letter-spacing: 0.03em;
+}
+.may-2024 {
+	position: absolute;
+	top: 594px;
+	left: 971px;
+	font-size: 13px;
+	letter-spacing: 0.03em;
+}
+.june-2024 {
+	position: absolute;
+	top: 594px;
+	left: 1166px;
+	font-size: 13px;
+	letter-spacing: 0.03em;
+}
+.x {
+	position: absolute;
+	top: 594px;
+	left: 439px;
+	font-size: 21px;
+	font-family: Inter;
+}
+.manage-booking-1 {
+	width: 25px;
+	position: relative;
+	height: 20px;
+	object-fit: cover;
+}
+.manage-booking-1-wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.manage-booking {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	letter-spacing: 0.03em;
+}
+.manage-booking-wrapper {
+	width: 167px;
+	position: relative;
+	height: 23px;
+}
+.frame-parent {
+	position: absolute;
+	top: 461px;
+	left: calc(50% - 324px);
+	background-color: #fff;
+	width: 315px;
+	height: 53px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+	box-sizing: border-box;
+	gap: 8px;
+	cursor: pointer;
+	font-size: 16px;
+}
+.flight-service-1 {
+	width: 24px;
+	position: relative;
+	height: 19px;
+	object-fit: cover;
+}
+.flight-status-wrapper {
+	width: 140px;
+	position: relative;
+	height: 23px;
+}
+.flight-service-1-parent {
+	position: absolute;
+	top: 461px;
+	left: calc(50% + 6px);
+	background-color: #fff;
+	width: 315px;
+	height: 53px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+	box-sizing: border-box;
+	gap: 10px;
+	font-size: 16px;
+}
+.flight-status-1 {
+	width: 29px;
+	position: relative;
+	height: 29px;
+	object-fit: cover;
+}
+.flight-services {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	letter-spacing: 0.03em;
+	white-space: pre-wrap;
+}
+.flight-services-wrapper {
+	width: 162px;
+	position: relative;
+	height: 23px;
+}
+.flight-status-1-parent {
+	position: absolute;
+	top: 461px;
+	left: calc(50% + 336px);
+	background-color: #fff;
+	width: 315px;
+	height: 53px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+	box-sizing: border-box;
+	gap: 10px;
+	font-size: 16px;
+}
+.line-div {
+	position: absolute;
+	top: 511.5px;
+	left: 64px;
+	border-top: 2px solid #052d59;
+	box-sizing: border-box;
+	width: 318px;
+	height: 2px;
+}
+.rectangle-div {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	border: 1px solid #000;
+	box-sizing: border-box;
+	width: 386px;
+	height: 68px;
+}
+.current-location-1 {
+	width: 40px;
+	position: relative;
+	height: 44px;
+	object-fit: cover;
+}
+.current-location-1-wrapper {
+	position: absolute;
+	top: 2.87px;
+	left: 0px;
+	width: 60px;
+	height: 62.3px;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+
+.location-select {
+    position: absolute;
+    z-index: 10; /* Ensure the select element is above other elements */
+    /* font-size: 16px; */
+    padding: 5px;
+    margin-top: 10px; /* Adjust as needed for spacing */
+    border: none;
+    /* border: 1px solid #ccc; */
+    background-color: #fff;
+    cursor: pointer; /* Ensures the cursor indicates interactivity */
+	/* left: 50px; */
+	/* position: absolute; */
+	/* top: 18px; */
+	left: calc(50% - 132px);
+	font-size: 23px;
+	/* letter-spacing: 0.03em; */
+	display: inline-block;
+	font-family: 'Kaisei Decol';
+	width: 263.1px;
+	width: fit-content;
+	top: 5px;
+	height: fit-content;
+}
+
+.class-select {
+    position: absolute;
+    z-index: 10; /* Ensure the select element is above other elements */
+    /* font-size: 16px; */
+    padding: 5px;
+    margin-top: 10px; /* Adjust as needed for spacing */
+    border: none;
+    /* border: 1px solid #ccc; */
+    background-color: #fff;
+    cursor: pointer; /* Ensures the cursor indicates interactivity */
+	/* left: 50px; */
+	/* position: absolute; */
+	/* top: 18px; */
+	left: calc(50% - 132px);
+	font-size: 20px;
+	/* letter-spacing: 0.03em; */
+	display: inline-block;
+	font-family: 'Kaisei Decol';
+	width: 263.1px;
+}
+ 
+.rectangle-parent {
+	position: absolute;
+	top: 571px;
+	left: 78px;
+	width: 386px;
+	height: 68px;
+	font-size: 23px;
+}
+.group-child1 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	border: 1px solid #000;
+	box-sizing: border-box;
+	width: 398.8px;
+	height: 68px;
+}
+.vector-icon {
+	position: absolute;
+	top: 15px;
+	left: 373px;
+	width: 10px;
+	height: 5.5px;
+}
+.passengers {
+	position: absolute;
+	top: 5px;
+	left: 9.3px;
+	letter-spacing: 0.03em;
+	display: inline-block;
+	width: 66.1px;
+}
+.class {
+	position: absolute;
+	top: 5px;
+	left: 494.94px;
+	letter-spacing: 0.03em;
+	display: inline-block;
+	width: 33.1px;
+}
+.rectangle-group {
+	position: absolute;
+	top: 685px;
+	left: 78px;
+	width: 528px;
+	height: 68px;
+	font-size: 9px;
+	color: rgba(0, 0, 0, 0.82);
+}
+
+.location-label {
+	position: absolute;
+	top: 2px;
+	left: 9.3px;
+	letter-spacing: 0.03em;
+	display: inline-block;
+	width: 66.1px;
+	width: 528px;
+	height: 68px;
+	font-size: 9px;
+	color: rgba(0, 0, 0, 0.82);
+	width: fit-content;
+}
+
+.group-child3 {
+	position: absolute;
+	top: 15px;
+	left: 355px;
+	width: 10px;
+	height: 5.5px;
+}
+.rectangle-container {
+	position: absolute;
+	top: 685px;
+	left: 547px;
+	width: 386px;
+	height: 68px;
+}
+.x1 {
+	position: absolute;
+	top: 23px;
+	left: 329px;
+	display: inline-block;
+	width: 14px;
+}
+.group-child4 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	border: 1px solid #000;
+	box-sizing: border-box;
+	width: 362px;
+	height: 69.7px;
+}
+.rectangle-wrapper {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 362px;
+	height: 69.7px;
+}
+.auckland-ack {
+	position: absolute;
+	top: 18px;
+	left: calc(50% - 132px);
+	font-size: 23px;
+	letter-spacing: 0.03em;
+	display: inline-block;
+	font-family: 'Kaisei Decol';
+	width: 263.1px;
+}
+.x-parent {
+	position: absolute;
+	top: 571px;
+	left: 522px;
+	width: 362px;
+	height: 69.7px;
+	font-size: 21px;
+	font-family: Inter;
+}
+.group-child5 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	border: 1px solid #000;
+	box-sizing: border-box;
+	width: 311px;
+	height: 69.7px;
+}
+
+.date-time-pickers {
+    margin-top: 20px; /* Adjust as needed for spacing */
+    display: flex;
+    flex-direction: column;
+}
+
+.date-time-pickers label {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.date-time-pickers input {
+    /* margin-top: 5px; */
+	margin: 5px;
+    padding: 5px;
+    font-size: 16px;
+    /* border: 1px solid #ccc; */
+    /* border-radius: 4px; */
+	border: none;
+	z-index: 10;
+}
+
+.rectangle-frame {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 311px;
+	height: 69.7px;
+}
+.group-container {
+	position: absolute;
+	top: 569px;
+	left: 957px;
+	width: 311px;
+	height: 69.7px;
+}
+.search-flight-wrapper {
+	position: absolute;
+	top: 694px;
+	left: 1041px;
+	background-color: #052d59;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 10px 73px;
+	font-size: 20px;
+	color: #fff;
+	cursor: pointer;
+}
+.frame-child {
+	position: absolute;
+	top: 0px;
+	left: 50px;
+	background-color: #fff;
+	border: 1px solid #000;
+	box-sizing: border-box;
+	width: 201px;
+	height: 166px;
+}
+.frame-item {
+	position: absolute;
+	top: 0px;
+	left: 258px;
+	background-color: #fff;
+	border: 1px solid #000;
+	box-sizing: border-box;
+	width: 201px;
+	height: 166px;
+}
+.frame-inner {
+	position: absolute;
+	top: 0px;
+	left: 466px;
+	background-color: #fff;
+	border: 1px solid #000;
+	box-sizing: border-box;
+	width: 201px;
+	height: 166px;
+}
+.div {
+	position: absolute;
+	top: 26px;
+	left: 551px;
+	font-size: 71px;
+	font-family: 'Irish Grover';
+}
+.frame-child1 {
+	position: absolute;
+	top: 0px;
+	left: 674px;
+	background-color: #fff;
+	border: 1px solid #000;
+	box-sizing: border-box;
+	width: 201px;
+	height: 166px;
+}
+.frame-child2 {
+	position: absolute;
+	top: 0px;
+	left: 882px;
+	background-color: #fff;
+	border: 1px solid #000;
+	box-sizing: border-box;
+	width: 201px;
+	height: 166px;
+}
+.tours-1-icon {
+	position: absolute;
+	top: 23px;
+	left: 946px;
+	width: 72px;
+	height: 75px;
+	object-fit: cover;
+}
+.frame-child3 {
+	position: absolute;
+	top: 0px;
+	left: 1090px;
+	background-color: #fff;
+	border: 1px solid #000;
+	box-sizing: border-box;
+	width: 201px;
+	height: 166px;
+}
+.hotels {
+	position: absolute;
+	top: 92px;
+	left: 107px;
+}
+.car-rent {
+	position: absolute;
+	top: 92px;
+	left: 306px;
+}
+.whats-on {
+	position: absolute;
+	top: 92px;
+	left: 507px;
+}
+.tours {
+	position: absolute;
+	top: 94px;
+	left: 947px;
+}
+.facilities {
+	position: absolute;
+	top: 94px;
+	left: 1133px;
+}
+.airport {
+	margin: 0;
+}
+.airport-transport {
+	position: absolute;
+	top: 101px;
+	left: 711px;
+	line-height: 127.82%;
+	text-align: center;
+}
+.png-transparent-azul-hotel-res-icon {
+	position: absolute;
+	top: 22px;
+	left: 93px;
+	width: 125px;
+	height: 70px;
+	object-fit: cover;
+}
+.car-1-icon {
+	position: absolute;
+	top: -9px;
+	left: 292px;
+	width: 140px;
+	height: 140px;
+	object-fit: cover;
+}
+.glass-1-icon {
+	position: absolute;
+	top: 13px;
+	left: 1126px;
+	width: 118px;
+	height: 100px;
+	object-fit: cover;
+}
+.frame-div {
+	position: absolute;
+	top: calc(50% - 583.5px);
+	left: 37px;
+	width: 1341px;
+	height: 166px;
+	font-size: 17px;
+	font-family: 'Inknut Antiqua';
+}
+.bus-1-icon {
+	position: absolute;
+	top: 853px;
+	left: 753px;
+	width: 111px;
+	height: 63px;
+	object-fit: cover;
+}
+.group-child6 {
+	position: absolute;
+	top: 1px;
+	left: 0px;
+	background-color: #333;
+	width: 1440px;
+	height: 129px;
+}
+.join-flydream-airmiles {
+	position: absolute;
+	top: 27px;
+	left: 391px;
+	letter-spacing: 0.03em;
+	display: inline-block;
+	width: 374px;
+	height: 36px;
+}
+.group-child7 {
+	position: absolute;
+	top: 0px;
+	left: 25px;
+	border-radius: 65px;
+	background-color: rgba(255, 255, 255, 0.93);
+	width: 346px;
+	height: 130px;
+}
+.flightlogo-2-icon {
+	position: absolute;
+	top: 24px;
+	left: 32px;
+	width: 162px;
+	height: 81px;
+	object-fit: cover;
+}
+.flight-service-2 {
+	position: absolute;
+	top: 9px;
+	left: 223px;
+	width: 122px;
+	height: 111px;
+	object-fit: cover;
+}
+.become-a-member {
+	position: absolute;
+	top: 68px;
+	left: 386px;
+	font-size: 16px;
+	letter-spacing: 0.03em;
+}
+.join-now {
+	position: relative;
+	letter-spacing: 0.03em;
+}
+.join-now-wrapper {
+	position: absolute;
+	top: 47px;
+	left: 1300px;
+	background-color: #fff8f8;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: 10px 31px;
+	font-size: 12px;
+	color: #000;
+}
+.group-div {
+	position: absolute;
+	top: 1024px;
+	left: 0px;
+	width: 1440px;
+	height: 130px;
+	font-size: 21px;
+	color: #fff;
+}
+.featured-destination-from {
+	position: absolute;
+	top: 0px;
+	left: calc(50% - 307.75px);
+	letter-spacing: 0.03em;
+	white-space: pre-wrap;
+}
+.group-child8 {
+	position: absolute;
+	top: 48.5px;
+	left: 463.98px;
+	border-top: 1px solid #000;
+	box-sizing: border-box;
+	width: 116px;
+	height: 1px;
+}
+.group-child9 {
+	position: absolute;
+	top: 39.5px;
+	left: 592.5px;
+	width: 23px;
+	height: 9px;
+}
+.featured-destination-from-sydn-parent {
+	position: absolute;
+	top: 1177px;
+	left: calc(50% - 333px);
+	width: 615.5px;
+	height: 48.5px;
+	font-size: 31px;
+}
+.frame-child4 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: #fff;
+	width: 422px;
+	height: 211px;
+}
+.frame-child5 {
+	position: absolute;
+	top: 0px;
+	left: 449px;
+	background-color: #fff;
+	width: 422px;
+	height: 211px;
+}
+.frame-child6 {
+	position: absolute;
+	top: 0px;
+	left: 898px;
+	background-color: #fff;
+	width: 422px;
+	height: 211px;
+}
+.dubai {
+	position: absolute;
+	top: 83px;
+	left: 163px;
+	letter-spacing: 0.03em;
+}
+.london {
+	position: absolute;
+	top: 83px;
+	left: 599px;
+	letter-spacing: 0.03em;
+}
+.china {
+	position: absolute;
+	top: 83px;
+	left: 1063px;
+	letter-spacing: 0.03em;
+}
+.from-aud-1969 {
+	position: absolute;
+	top: 138px;
+	left: 148px;
+	font-size: 18px;
+	font-family: 'Iowan Old Style';
+}
+.from-aud-2039 {
+	position: absolute;
+	top: 138px;
+	left: 595px;
+	font-size: 18px;
+	font-family: 'Iowan Old Style';
+}
+.from-aud-1474 {
+	position: absolute;
+	top: 138px;
+	left: 1047px;
+	font-size: 18px;
+	font-family: 'Iowan Old Style';
+}
+.rectangle-parent1 {
+	position: absolute;
+	top: 1432px;
+	left: 56px;
+	width: 1320px;
+	height: 211px;
+	font-size: 31px;
+}
+.paris {
+	position: absolute;
+	top: 83px;
+	left: 171px;
+	letter-spacing: 0.03em;
+}
+.rome {
+	position: absolute;
+	top: 83px;
+	left: 615px;
+	letter-spacing: 0.03em;
+}
+.new-zealand {
+	position: absolute;
+	top: 83px;
+	left: 1007px;
+	letter-spacing: 0.03em;
+}
+.from-aud-2029 {
+	position: absolute;
+	top: 143px;
+	left: 146px;
+	font-size: 18px;
+	font-family: 'Iowan Old Style';
+}
+.from-aud-1979 {
+	position: absolute;
+	top: 143px;
+	left: 593px;
+	font-size: 18px;
+	font-family: 'Iowan Old Style';
+}
+.from-aud-679 {
+	position: absolute;
+	top: 143px;
+	left: 1045px;
+	font-size: 18px;
+	font-family: 'Iowan Old Style';
+}
+.rectangle-parent2 {
+	position: absolute;
+	top: 1897px;
+	left: 58px;
+	width: 1320px;
+	height: 211px;
+	font-size: 31px;
+}
+.dubai-1-icon {
+	position: absolute;
+	top: 1300px;
+	left: 56px;
+	width: 422px;
+	height: 134px;
+	object-fit: cover;
+}
+.china-1-icon {
+	position: absolute;
+	top: 1298px;
+	left: 954px;
+	width: 422px;
+	height: 134px;
+	object-fit: cover;
+}
+.paris-1 {
+	position: absolute;
+	top: 1797px;
+	left: 58px;
+	width: 422px;
+	height: 134px;
+}
+.paris-2-icon {
+	position: absolute;
+	top: 1763px;
+	left: 59px;
+	width: 422px;
+	height: 134px;
+	object-fit: cover;
+}
+.london-1-icon {
+	position: absolute;
+	top: 1298px;
+	left: 505px;
+	width: 422px;
+	height: 134px;
+	object-fit: cover;
+}
+.rome-1-icon {
+	position: absolute;
+	top: 1763px;
+	left: 508px;
+	width: 422px;
+	height: 134px;
+	object-fit: cover;
+}
+.newzeland-1-icon {
+	position: absolute;
+	top: 1762px;
+	left: 956px;
+	width: 422px;
+	height: 134px;
+	object-fit: cover;
+}
+.group-child10 {
+	position: absolute;
+	top: 2664px;
+	left: calc(50% - 720px);
+	background-color: #000;
+	width: 1440px;
+	height: 156px;
+}
+.get-your-best {
+	position: absolute;
+	top: 2108px;
+	left: calc(50% - 321px);
+	font-size: 37px;
+	font-family: 'Inknut Antiqua';
+}
+.frame-child10 {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: #d9d9d9;
+	width: 240px;
+	height: 386px;
+}
+.frame-child11 {
+	position: absolute;
+	top: 0px;
+	left: 284px;
+	background-color: #d9d9d9;
+	width: 240px;
+	height: 386px;
+}
+.frame-child12 {
+	position: absolute;
+	top: 0px;
+	left: 573px;
+	background-color: #d9d9d9;
+	width: 240px;
+	height: 386px;
+}
+.frame-child13 {
+	position: absolute;
+	top: 0px;
+	left: 852px;
+	background-color: #d9d9d9;
+	width: 240px;
+	height: 386px;
+}
+.first-class-1 {
+	position: absolute;
+	top: 0px;
+	left: -3px;
+	width: 246px;
+	height: 386px;
+	object-fit: cover;
+}
+.first-class {
+	position: absolute;
+	top: 57px;
+	left: 71px;
+}
+.business-class-1 {
+	position: absolute;
+	top: 0px;
+	left: 284px;
+	width: 240px;
+	height: 386px;
+	object-fit: cover;
+}
+.business-class {
+	position: absolute;
+	top: 57px;
+	left: 335px;
+}
+.premium-economy-1 {
+	position: absolute;
+	top: 0px;
+	left: 573px;
+	width: 240px;
+	height: 386px;
+	object-fit: cover;
+}
+.premium-economy1 {
+	position: absolute;
+	top: 57px;
+	left: 604px;
+}
+.economy-1-icon {
+	position: absolute;
+	top: 0px;
+	left: 852px;
+	width: 240px;
+	height: 386px;
+	object-fit: cover;
+}
+.economy {
+	position: absolute;
+	top: 57px;
+	left: 926px;
+}
+.rectangle-parent3 {
+	position: absolute;
+	top: 0px;
+	left: calc(50% - 546px);
+	width: 1092px;
+	height: 386px;
+}
+.group-child11 {
+	position: absolute;
+	top: 97px;
+	left: 314px;
+	border-top: 2px solid #e81d1d;
+	box-sizing: border-box;
+	width: 179px;
+	height: 2px;
+}
+.group-child12 {
+	position: absolute;
+	top: 97px;
+	left: 599px;
+	border-top: 2px solid #e81d1d;
+	box-sizing: border-box;
+	width: 179px;
+	height: 2px;
+}
+.group-child13 {
+	position: absolute;
+	top: 97px;
+	left: 883px;
+	border-top: 2px solid #e81d1d;
+	box-sizing: border-box;
+	width: 179px;
+	height: 2px;
+}
+.group-child14 {
+	position: absolute;
+	top: 97px;
+	left: 30px;
+	border-top: 2px solid #e81d1d;
+	box-sizing: border-box;
+	width: 179px;
+	height: 2px;
+}
+.frame-group {
+	position: absolute;
+	top: 2203px;
+	left: calc(50% - 545px);
+	width: 1092px;
+	height: 386px;
+	font-size: 27px;
+	color: #fff;
+	font-family: 'Jockey One';
+}
+.departing {
+	position: absolute;
+	top: 576px;
+	left: 969px;
+	font-size: 9px;
+	letter-spacing: 0.03em;
+}
+.returning {
+	position: absolute;
+	top: 576px;
+	left: 1199px;
+	font-size: 9px;
+	letter-spacing: 0.03em;
+}
+.flight1-1-parent {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 2821px;
+}
+.search-flight {
+	width: 100%;
+	position: relative;
+	background-color: #333;
+	height: 2820px;
+	overflow: hidden;
+	text-align: left;
+	font-size: 14px;
+	color: #000;
+	font-family: 'Kaisei Decol';
+}
+

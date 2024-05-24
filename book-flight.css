@@ -1,0 +1,27 @@
+.Rectangle24Type1 {
+    width: 1325px; 
+    height: 80px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute;
+    background: #052D59; 
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); 
+    border-radius: 69px
+}
+
+.Rectangle23Type1 {
+    width: 1325px; height: 38.83px; left: 0px; top: 41.17px; position: absolute; background: #052D59; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.LineWHL {
+
+    width: 24px; height: 0px; left: 1088px; 
+    position: absolute; transform: rotate(-90deg); transform-origin: 0 0; 
+}
+
+.Line-WHPB-1 {
+    width: 34px;
+    height: 0px;
+    position: absolute;
+    border: 1px white solid;
+}

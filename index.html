@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flight Search</title>
+</head>
+<body>
+    <h1>Flight Search</h1>
+    <div id="results"></div>
+ 
+    <div id="search-flights">
+        <form id="searchForm">
+            <label for="date">Date:</label>
+            <input type="date" id="date" name="date" required><br><br>
+
+            <label for="time">Time:</label>
+            <input type="time" id="time" name="time" required><br><br>
+
+            <label for="departure">Departure Location:</label>
+            <input type="text" id="departure" name="departure" required><br><br>
+
+            <label for="arrival">Arrival Location:</label>
+            <input type="text" id="arrival" name="arrival" required><br><br>
+
+            <button type="submit">Search</button>
+        </form>
+    </div>
+
+    <div id="search-results"></div>
+ 
+    <script src="process_flight_info.js"> </script>
+    <script>
+        var allFlights;
+        document.addEventListener('DOMContentLoaded', () => {
+            readFlightInfo('flight-info.csv')
+                .then(flights => {
+                    // console.log("From HTML:");
+                    // console.log(flights);
+                    allFlights = flights;
+                    displayFlightInfo(flights);
+                });
+        });
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const form = document.getElementById('searchForm');
+            form.addEventListener('submit', (event) => {
+                event.preventDefault(); // Prevent default form submission
+                const formData = new FormData(form);
+                const searchData = {};
+                formData.forEach((value, key) => {
+                    searchData[key] = value;
+                });
+                // console.log(searchData);
+                console.log(allFlights);
+                searchFlights(searchData, allFlights);
+            });
+        });
+    </script>
+</body>
+</html>

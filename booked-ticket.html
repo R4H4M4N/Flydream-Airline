@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Booked Ticket
+        </title>
+        <script src="process_flight_info.js"></script>
+    </head>
+</html>
+<body>
+    <h1>You have booked <span id="class-type">Economy</span> Ticket</h1>
+    <script>
+        var classType = getQueryVariable("classType");
+        document.getElementById("class-type").innerText = classType;
+
+    </script>
+</body>

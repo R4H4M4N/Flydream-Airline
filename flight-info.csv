@@ -1,0 +1,5 @@
+Flight Number,Departure,Arrival,Date,Time,Economy,Premium,Business
+SYD-IND-001,sydney,india,2024-06-21,08:00,20,20,20 
+SYD-CHN-002,sydney,china,2024-06-21,09:00,20,20,20 
+SYD-DUB-003,sydney,dubai,2024-06-21,10:00,20,20,20
+SYD-OAK-004,sydney,oakland,2024-06-21,11:00,20,20,20
