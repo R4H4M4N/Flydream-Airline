@@ -1,0 +1,5 @@
+Download all the images and keep with same folder that has the .html and txt
+file in it
+otherwise images and icons won't display in the website. 
+so make sure while downloading the images 
+you kept images and all the files in same folder
